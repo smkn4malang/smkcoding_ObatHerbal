@@ -2,6 +2,6 @@
 
 sementara
 
-![Logo](log/log.jpg)
+![Logo](log/login.jpg)
 
 ![Logo](log/reg.jpg)
